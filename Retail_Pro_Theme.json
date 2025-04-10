@@ -1,0 +1,38 @@
+{
+    "name": "Retail Professional Theme",
+    "dataColors": [
+        "#1F77B4",
+        "#FF7F0E",
+        "#2CA02C",
+        "#D62728",
+        "#9467BD",
+        "#8C564B"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#000000",
+    "tableAccent": "#1F77B4",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "color": {
+                    "solid": {
+                        "color": "#1F77B4"
+                    }
+                },
+                "fontFamily": "Segoe UI",
+                "labelColor": {
+                    "solid": {
+                        "color": "#333333"
+                    }
+                },
+                "outlineColor": {
+                    "solid": {
+                        "color": "#EAEAEA"
+                    }
+                },
+                "outlineWeight": 1,
+                "outlineStyle": "Solid"
+            }
+        }
+    }
+}

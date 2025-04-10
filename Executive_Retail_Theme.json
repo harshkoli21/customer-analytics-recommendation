@@ -1,0 +1,61 @@
+{
+    "name": "Executive Retail Theme",
+    "dataColors": [
+        "#1f77b4",
+        "#ff7f0e",
+        "#2ca02c",
+        "#d62728",
+        "#9467bd",
+        "#17becf"
+    ],
+    "background": "#ffffff",
+    "foreground": "#333333",
+    "tableAccent": "#1f77b4",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "color": {
+                    "solid": {
+                        "color": "#1f77b4"
+                    }
+                },
+                "fontFamily": "Segoe UI",
+                "labelColor": {
+                    "solid": {
+                        "color": "#333333"
+                    }
+                },
+                "outlineColor": {
+                    "solid": {
+                        "color": "#dcdcdc"
+                    }
+                },
+                "outlineWeight": 1,
+                "outlineStyle": "Solid",
+                "textSize": 12
+            }
+        },
+        "card": {
+            "*": {
+                "labelColor": {
+                    "solid": {
+                        "color": "#444444"
+                    }
+                },
+                "fontFamily": "Segoe UI",
+                "textSize": 14
+            }
+        },
+        "slicer": {
+            "*": {
+                "outlineColor": {
+                    "solid": {
+                        "color": "#cccccc"
+                    }
+                },
+                "outlineWeight": 1,
+                "fontFamily": "Segoe UI"
+            }
+        }
+    }
+}
