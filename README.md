@@ -73,7 +73,7 @@ Includes:
 
 **Harsh Dayanand Koli**  
 LinkedIn: [linkedin.com/in/harsh-koli21](https://www.linkedin.com/in/harsh-koli21/)  
-GitHub: [github.com/yourgithub](https://github.com/yourgithub)
+GitHub: [github.com/harshkoli21](https://github.com/harshkoli21)
 
 ---
 
