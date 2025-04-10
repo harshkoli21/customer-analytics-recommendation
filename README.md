@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Power BI](https://img.shields.io/badge/PowerBI-Interactive-orange)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 🛍️ Customer Purchase Prediction & Recommendation System
 ![Customer Purchase Prediction](https://github.com/user-attachments/assets/94d829cf-e55d-4c1c-beee-48f39407a918)
 
