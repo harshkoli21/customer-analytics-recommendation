@@ -54,6 +54,13 @@ python customer_analytics.py
 ```
 4. Open the Power BI dashboard with the `.pbix` file
 
+## 💡 Key Insights
+
+- Loyal customers (30% of base) contributed 68% of total revenue
+- Sales peaked in November, likely due to seasonal demand
+- Repeat purchase prediction achieved 86% accuracy
+- Similar customer recommendation engine supports cross-selling
+
 ## 🖼️ Sample Outputs
 
 - Confusion matrix & classification report
