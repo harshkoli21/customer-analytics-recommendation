@@ -71,7 +71,7 @@ Includes:
 ## 🙋‍♂️ Author
 
 **Harsh Dayanand Koli**  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+LinkedIn: [linkedin.com/in/harsh-koli21](https://www.linkedin.com/in/harsh-koli21/)  
 GitHub: [github.com/yourgithub](https://github.com/yourgithub)
 
 ---
