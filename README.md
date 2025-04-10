@@ -61,6 +61,7 @@ python customer_analytics.py
 - Exported CSVs for dashboard: `rfm_data.csv`, `sales_data.csv`
 
 ## 📊 Power BI Dashboard
+![Dashboard Preview](path-to-your-dashboard-screenshot.png)
 
 Includes:
 - KPI cards
