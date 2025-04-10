@@ -1,4 +1,5 @@
 # 🛍️ Customer Purchase Prediction & Recommendation System
+![Customer Purchase Prediction](https://github.com/user-attachments/assets/94d829cf-e55d-4c1c-beee-48f39407a918)
 
 A full-stack Data Science project focused on analyzing customer behavior, predicting repeat purchases, and generating product recommendations using retail sales data.
 
