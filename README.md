@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Power BI](https://img.shields.io/badge/PowerBI-Interactive-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
