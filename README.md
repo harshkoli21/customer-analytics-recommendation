@@ -72,7 +72,8 @@ python customer_analytics.py
 - Exported CSVs for dashboard: `rfm_data.csv`, `sales_data.csv`
 
 ## 📊 Power BI Dashboard
-![Customer Purchase Prediction](https://github.com/user-attachments/assets/799f7568-a02f-497f-9068-3583a8dd6be9)
+![Customer Analytics Dashboard](https://github.com/user-attachments/assets/07d2666d-7ab1-4524-bf9d-5a4a266051a0)
+
 
 Includes:
 - KPI cards
